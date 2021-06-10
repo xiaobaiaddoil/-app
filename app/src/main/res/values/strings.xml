@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">易背</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">登陆</string>
+    <string name="action_regist">注册</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="bg_login">背景图</string>
+    <string name="textname">考试词表</string>
+    <string name="start">立即开始！</string>
+</resources>

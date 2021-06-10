@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:id="@+id/top_view_bar"
+    android:layout_height="32dp">
+    <ImageView
+        android:id="@+id/top_view_left_iv"
+        android:layout_gravity="center"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/menu1"/>
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        />
+</LinearLayout>
